@@ -1,12 +1,13 @@
 # calender/todo list/note
-user has an account in this app
+user has an account in this program
+user must login to access the diffrent parts of program
 
-user enter to his account 
-
-the program has three parts:
+the program has four parts:
 * calender
 * notes and lists
 * board
+* group board
+
 ## calender part
 
 the calender shows date and time
@@ -19,7 +20,7 @@ a note can be attached to specific task
 
 ## notes and lists
 
-in this section the user can write notes or create lists
+in this section, user can write notes or create lists
 
 user can 
 
