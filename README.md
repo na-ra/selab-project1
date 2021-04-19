@@ -17,9 +17,7 @@ this software provide a group board which allow multiple users to share group ta
 
 
 ### calender
-
 the calender shows date
-
 user can write his tasks then he can place them in the calender
 
 a note can be attached to specific task 
@@ -43,4 +41,4 @@ users that have eachother account's id can share tasks and notes also each user 
 
 
 
-## Developer : Narges Rafiee Zadeh
+** Developer : Narges Rafiee Zadeh**
