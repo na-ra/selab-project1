@@ -1,9 +1,10 @@
-# Time management software
+# **Time management software**
+
 user by using this sofware calender can manage his time and tasks in an efficient way
 
-also it provide a place for writing his notes and lists 
+also it provides a place for writing his notes and lists 
 
-the tasks and notes that user want to focus or work on, may differ during diffrent period of time so this software provides a personal board which he can pin his task and notes in it
+the tasks and notes that user want to focus or work on, may vary during diffrent period of time so this software provides a personal board which he can pin tasks and notes on it
 
 this software provide a group board which allow multiple users to share group tasks
 
@@ -36,4 +37,4 @@ user can pin or unpin his tasks or notes also he can change task's place base on
 
 
 ### group board
-users that have eachother's account's id can share tasks and notes also each user can create,edit,delete tasks or pin them in their personal board
+users that have eachother account's id can share tasks and notes also each user can create,edit,delete tasks or pin them in their personal board
