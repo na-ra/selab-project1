@@ -17,15 +17,13 @@ this software provide a group board which allow multiple users to share group ta
 
 
 
-*### calender
+### calender
 
 the calender shows date
 
 user can write his tasks then he can place them in the calender
 
 a note can be attached to specific task 
-
-
 
 
 
@@ -44,6 +42,3 @@ user can pin or unpin his tasks or notes also he can change task's place base on
 users that have eachother account's id can share tasks and notes also each user can create,edit,delete tasks or pin them in their personal board
 
 
-
-
-**Developer : Narges Rafiee Zadeh**
