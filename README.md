@@ -8,13 +8,12 @@ the tasks and notes that user want to focus or work on, may vary during diffrent
 
 this software provide a group board which allow multiple users to share group tasks
 
-```javascript
+
 ## this software has four parts:
 * calender and tasks
 * notes
 * personal board
 * group board
-```
 
 
 ### calender
@@ -40,3 +39,5 @@ user can pin or unpin his tasks or notes also he can change task's place base on
 
 ### group board
 users that have eachother account's id can share tasks and notes also each user can create,edit,delete tasks or pin them in their personal board
+
+Developer name | Narges Rafiee Zadeh
