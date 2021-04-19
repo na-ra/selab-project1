@@ -40,4 +40,7 @@ user can pin or unpin his tasks or notes also he can change task's place base on
 ### group board
 users that have eachother account's id can share tasks and notes also each user can create,edit,delete tasks or pin them in their personal board
 
-Developer name | Narges Rafiee Zadeh
+
+
+
+## Developer : Narges Rafiee Zadeh
