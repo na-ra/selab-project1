@@ -1,16 +1,22 @@
-# calender/todo list/note
-user has an account in this program
-user must login to access the diffrent parts of program
+# Time management software
+user by using this sofware calender can manage his time and tasks in an efficient way
 
-the program has four parts:
-* calender
-* notes and lists
-* board
+also it provide a place for writing his notes and lists 
+
+the tasks and notes that user want to focus or work on, may differ during diffrent period of time so this software provides a personal board which he can pin his task and notes in it
+
+this software provide a group board which allow multiple users to share group tasks
+
+
+## this software has four parts:
+* calender and tasks
+* notes
+* personal board
 * group board
 
-## calender part
+### calender
 
-the calender shows date and time
+the calender shows date
 
 user can write his tasks then he can place them in the calender
 
@@ -18,16 +24,16 @@ a note can be attached to specific task
 
 
 
-## notes and lists
+### notes
 
-in this section, user can write notes or create lists
-
-user can 
+in this section, user can create,edit,delete his notes
 
 
 
-## board
+### personal board
+user can pin or unpin his tasks or notes also he can change task's place base on priority of that task
 
-the program can allow manupulating calender by multiple users
 
-user can share his calender to other accounts in the app
+
+### group board
+users that have eachother's account's id can share tasks and notes also each user can create,edit,delete tasks or pin them in their personal board
