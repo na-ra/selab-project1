@@ -8,12 +8,14 @@ the tasks and notes that user want to focus or work on, may vary during diffrent
 
 this software provide a group board which allow multiple users to share group tasks
 
-
+```javascript
 ## this software has four parts:
 * calender and tasks
 * notes
 * personal board
 * group board
+```
+
 
 ### calender
 
