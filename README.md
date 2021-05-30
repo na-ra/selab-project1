@@ -8,7 +8,7 @@ the tasks and notes that user want to focus or work on, may vary during diffrent
 
 this software provide a group board which allow multiple users to share group tasks
 
-
+[a link](https://github.com/na-ra/green-time/blob/f1535866d98f66363dcbb72973f12905b0468194/documentation/Scenario)
 ## this software has four parts:
 * calender and tasks
 * notes
